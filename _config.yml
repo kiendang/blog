@@ -7,7 +7,10 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Kien Dang
-description: An easy to use blogging platform with support for Jupyter Notebooks.
+description: ""
+author:
+  name: Kien Dang
+  email: mail AT kien DOT ai
 github_username: kiendang
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "blog"

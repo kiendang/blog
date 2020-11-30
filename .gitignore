@@ -13,4 +13,5 @@ _notebooks/.ipynb_checkpoints
 .tweet-cache
 __pycache__
 .DS_Store
-_posts/*.ipynb.md
+_posts/nbs/*
+!.gitkeep
